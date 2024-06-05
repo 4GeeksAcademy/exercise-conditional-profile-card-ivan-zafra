@@ -70,7 +70,7 @@
   position: absolute;
   top: 20px;
   padding: 0;
-  background: #2cdfd3;
+  background: #c12cdf;
 }
 .widget ul.position-left {
   left: -26px;
@@ -91,7 +91,7 @@
   transition: background-color 0.3s;
 }
 .widget ul li:hover > a {
-  background-color: #2cd5ca;
+  background-color: #7b2cd5;
 }
 .widget ul li:first-child > a {
   border-radius: 0 3px 0 0;
